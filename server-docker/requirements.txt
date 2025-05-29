@@ -1,0 +1,9 @@
+Flask
+flask_cors
+flask_sqlalchemy
+opencv-python
+numpy
+Pillow
+ultralytics
+python-dotenv
+certifi
